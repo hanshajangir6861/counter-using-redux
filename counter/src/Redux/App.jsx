@@ -1,6 +1,8 @@
 import React from 'react'
 import { decrementCounter,incrementCounter} from './Slice'
 import {useDispatch,useSelector} from 'react-redux'
+import './App.css'
+
 
 function App(){
     const dispatch=useDispatch()
