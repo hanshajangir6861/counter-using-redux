@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.main{
+    padding-left: 525px;
+    margin-top: 208px;
+    font-size: 25px;
+    /* background-color: aqua; */
+}
+button{
+    height: 32px;
+    width: 146px;
+    border-radius: 15px;
+}
+p{
+    padding-left: 62px;
+    padding-top: 20px;
+}
